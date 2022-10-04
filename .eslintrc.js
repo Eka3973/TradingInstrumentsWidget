@@ -18,7 +18,7 @@ module.exports = {
       'error',
       {
         singleQuote: true,
-        bracketSpacing: false,
+        bracketSpacing: true,
         printWidth: 80,
         endOfLine: 'auto'
       }
