@@ -7,7 +7,8 @@
 1. Clone/download repo.
 2. Rename '.env.example' file to '.env'.
 3. Run `npm install`.
-4. Set up an Android device to run project.
+4. Set up an Android device to run project. And make sure you have a device connected: `adb devices`
+
 ```
 #### :bulb: *If you want to inspect project with  Reactotron run the following command to make sure it can connect:*
 ```bash
